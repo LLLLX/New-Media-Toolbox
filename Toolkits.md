@@ -32,7 +32,8 @@
 2. [瓦斯](http://canvas.qq.com/index)：腾讯模仿Canvas做的产品，更适合制作信息图。
 3. [Canvas](https://canvas.cityu.edu.hk/login/ldap)：国外产品，创客贴的原身。
 4. [Powerpoint](https://office.live.com/start/PowerPoint.aspx)：我最喜欢的快速设计工具。
-5. [Sketch](https://www.sketchapp.com/)：仅限Mac，正在逐步替代PS成为主流的UI设计工具。
+5. [Sketch](https://www.sketchapp.com/)：仅限Mac，正在逐步替代PS成为主流的UI设计工具。  
+6. [Canva](https://www.canva.com/)：在线设计平台，提供了很多优质的字体、图标等素材和模板，操作方便，视觉体验很棒。
 
 ### 排版工具
 
@@ -118,7 +119,8 @@
 ### 设计灵感库
 
 1. [Behance](https://www.behance.net/)：Behance是作品集平台，重在系统地展示，尤其是系列作品。
-2. [Dribbble](https://dribbble.com/)：dribbble则是一个让设计师发布正在创作中的作品的地方，需要会员邀请才能发布作品，相对Behance种类较少，但是风格更前卫。
+2. [Dribbble](https://dribbble.com/)：dribbble则是一个让设计师发布正在创作中的作品的地方，需要会员邀请才能发布作品，相对Behance种类较少，但是风格更前卫。  
+3. [TOPYS](http://www.topys.cn/)：TOPYS是一个创意分享的在线平台，用户可以自己分享创意，包括图片、文案、视频、设计等。  
 
 ### 配乐素材库
 
