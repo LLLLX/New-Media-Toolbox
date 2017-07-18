@@ -51,7 +51,8 @@
 
 1. [Kuler](https://color.adobe.com/create/color-wheel/)：Adobe出品的强大配色工具。
 2. [配色表](http://tool.c7sky.com/webcolor/#character_7)：国内网页设计常用的色彩搭配方案。
-3. [千图配色](http://www.58pic.com/peise/)：配色的小工具比较多
+3. [千图配色](http://www.58pic.com/peise/)：配色的小工具比较多  
+4. [Nipponcolors](http://nipponcolors.com/)：日本传统色系，有250个颜色，满足色彩强迫症。
 
 
 ### 运营辅助工具
